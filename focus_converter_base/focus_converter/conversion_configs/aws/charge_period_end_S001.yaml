@@ -1,4 +1,4 @@
 plan_name: convert line_item_usage_end_date to ChargePeriodEnd
-conversion_type: assign_utc_timezone
+conversion_type: rename_column
 column: line_item_usage_end_date
 focus_column: ChargePeriodEnd

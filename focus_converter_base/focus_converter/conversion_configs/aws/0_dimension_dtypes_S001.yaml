@@ -22,3 +22,11 @@ conversion_args:
             dtype: string
         -   column_name: product_purchase_option
             dtype: string
+        -   column_name: bill_billing_period_end_date
+            dtype: string
+        -   column_name: bill_billing_period_start_date
+            dtype: string
+        -   column_name: line_item_usage_start_date
+            dtype: string
+        -   column_name: line_item_usage_end_date
+            dtype: string

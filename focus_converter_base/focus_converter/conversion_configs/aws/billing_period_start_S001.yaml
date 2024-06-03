@@ -1,4 +1,4 @@
 plan_name: convert bill_billing_period_start_date to BillingPeriodStart
-conversion_type: assign_utc_timezone
+conversion_type: rename_column
 column: bill_billing_period_start_date
 focus_column: BillingPeriodStart
