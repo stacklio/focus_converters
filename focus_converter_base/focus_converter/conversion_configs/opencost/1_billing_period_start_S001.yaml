@@ -1,0 +1,4 @@
+plan_name: Get month start using start
+conversion_type: rename_column
+column: BillingPeriodStart
+focus_column: BillingPeriodStart

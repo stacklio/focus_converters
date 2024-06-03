@@ -1,0 +1,4 @@
+plan_name: convert ServiceCategory to ServiceCategory
+conversion_type: rename_column
+column: ServiceCategory
+focus_column: ServiceCategory

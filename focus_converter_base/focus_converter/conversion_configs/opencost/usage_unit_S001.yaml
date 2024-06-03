@@ -1,0 +1,6 @@
+plan_name: Assign UsageUnit
+conversion_type: static_value
+conversion_args:
+    static_value: Hrs
+column: NA
+focus_column: UsageUnit

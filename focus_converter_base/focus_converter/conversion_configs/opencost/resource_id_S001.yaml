@@ -1,0 +1,4 @@
+plan_name: convert properties.labels.topology_kubernetes_io_zone to Region
+conversion_type: rename_column
+column: ResourceId
+focus_column: ResourceId
